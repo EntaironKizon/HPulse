@@ -2,7 +2,7 @@
 
 **Introducción**
 
-Esta herramienta permite crear combinaciones de teclas (hotkeys) para enviar frases específicas en un script. Es especialmente útil para automatizar tareas mediante combinaciones de teclas personalizadas.
+Esta herramienta permite crear combinaciones de teclas (hotkeys) para enviar frases específicas en Habbo. Es especialmente útil para Organizadores de Eventos y Traders.
 
 **Requisitos**
 
