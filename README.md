@@ -1,18 +1,18 @@
-Herramienta de Asignación de Teclas y Personalización de Frases 
+**Herramienta de Asignación de Teclas y Personalización de Frases**
 
-Introducción
+**Introducción**
 
 Esta herramienta permite crear combinaciones de teclas (hotkeys) para enviar frases específicas en un script. Además, proporciona botones para cambiar el tamaño de la ventana o alternar entre modo de pantalla completa y ventana. Es especialmente útil para automatizar tareas mediante combinaciones de teclas personalizadas.
 
-Requisitos
+**Requisitos**
 
 Sistema operativo compatible con (Windows, Linux, macOS).
 
 AutoHotkey instalado para ejecutar los scripts generados. Puedes descargarlo desde: https://www.autohotkey.com/.  (IMPORTANTE)!!!!!
 
-Características y Uso
+**Características y Uso**
 
-1. Asignar Combinaciones de Teclas
+**1.** Asignar Combinaciones de Teclas
 
 Puedes asignar una tecla a una frase de la siguiente manera:
 
@@ -27,7 +27,7 @@ La herramienta guardará la combinación de teclas y la frase, mostrando un mens
 Ejemplo:
 Si asignas la frase "Hola" a la tecla A, entonces al presionar Ctrl + A, se enviará "Hola".
 
-2. Guardar el Mensaje
+**2.** Guardar el Mensaje
 
 Asigna las combinaciones de teclas como se explica en el paso anterior.
 
@@ -39,7 +39,7 @@ El script generado incluirá todas las combinaciones de teclas y frases asignada
 
 Ejecuta el script dando doble click en él para automatizar las combinaciones de teclas.
 
-3. Cambiar el Tamaño de la Ventana
+**3.** Cambiar el Tamaño de la Ventana
 
 La aplicación permite ajustar su tamaño mediante los siguientes botones:
 
@@ -47,13 +47,13 @@ Botón "Pequeño": Reduce la ventana a 330x310 píxeles.
 
 Botón "Predeterminado": Restaura el tamaño original de 660x620 píxeles.
 
-4. Alternar entre Pantalla Completa y Ventana
+**4.** Alternar entre Pantalla Completa y Ventana
 
 Modo de Pantalla Completa: Si la ventana está en modo ventana, al hacer clic en el botón "Pantalla Completa", la aplicación cambiará a pantalla completa.
 
 Modo Ventana: Si la aplicación ya está en pantalla completa, al hacer clic en el botón, volverá al modo ventana.
 
-5. Mensajes y Estado
+**5.** Mensajes y Estado
 
 Un Label de estado en la interfaz mostrará mensajes de confirmación y errores, tales como:
 
@@ -63,7 +63,7 @@ Estado del guardado del script (exitoso o con errores).
 
 Errores si faltan datos o si hay problemas al guardar el archivo.
 
-6. Solución de Problemas
+**6.** Solución de Problemas
 
 El Label con los mensajes no se muestra:
 
@@ -79,7 +79,7 @@ Asegúrate de que el campo de nombre de archivo no esté vacío.
 
 Asegúrate de tener AutoHotkey instalado y configurado correctamente.
 
-Contribución
+**Contribución**
 
 Si deseas mejorar esta herramienta o reportar errores, puedes hacer un fork del repositorio y enviar un pull request. Toda colaboración es bienvenida.
 
