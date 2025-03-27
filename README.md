@@ -8,7 +8,7 @@ Esta herramienta permite crear combinaciones de teclas (hotkeys) para enviar fra
 
 Sistema operativo compatible con (Windows, Linux, macOS).
 
-AutoHotkey instalado para ejecutar los scripts generados. Puedes descargarlo desde: https://www.autohotkey.com/.  IMPORTANTE TENER INSTALDO AUTOHOTKEY O NO FUNCIONARÁ
+AutoHotkey instalado para ejecutar los mensajes generados. Puedes descargarlo desde: https://www.autohotkey.com/.  IMPORTANTE TENER INSTALDO AUTOHOTKEY O NO FUNCIONARÁ
 
 **Características y Uso**
 
