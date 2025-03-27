@@ -2,7 +2,7 @@
 
 **Introducción**
 
-Esta herramienta permite crear combinaciones de teclas (hotkeys) para enviar frases específicas en un script. Además, proporciona botones para cambiar el tamaño de la ventana o alternar entre modo de pantalla completa y ventana. Es especialmente útil para automatizar tareas mediante combinaciones de teclas personalizadas.
+Esta herramienta permite crear combinaciones de teclas (hotkeys) para enviar frases específicas en un script. Es especialmente útil para automatizar tareas mediante combinaciones de teclas personalizadas.
 
 **Requisitos**
 
