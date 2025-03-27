@@ -35,9 +35,9 @@ Ingresa el nombre del archivo en el campo de texto de la interfaz. (Donde dice N
 
 Haz clic en el botón Guardar para generar el archivo .ahk en la carpeta de Descargas.
 
-El script generado incluirá todas las combinaciones de teclas y frases asignadas.
+El mensaje generado incluirá todas las combinaciones de teclas y frases asignadas.
 
-Ejecuta el script dando doble click en él para automatizar las combinaciones de teclas.
+Ejecuta el mensaje dando doble click en él para automatizar las combinaciones de teclas.
 
 **3.** Cambiar el Tamaño de la Ventana
 
