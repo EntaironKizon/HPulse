@@ -2,7 +2,7 @@
 
 **Introducción**
 
-Esta herramienta permite crear combinaciones de teclas (hotkeys) para enviar frases específicas en Habbo. Es especialmente útil para Organizadores de Eventos, DJ´s y Traders.
+Esta herramienta permite crear combinaciones de teclas (hotkeys) para enviar frases específicas en Habbo o cualquier juego similar. Es especialmente útil para Organizadores de Eventos, DJ´s y Traders.
 
 **Requisitos**
 
