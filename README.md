@@ -8,8 +8,6 @@ Requisitos
 
 Sistema operativo compatible con (Windows, Linux, macOS).
 
-Permiso de escritura en la carpeta de Descargas (para guardar el archivo de script).
-
 AutoHotkey instalado para ejecutar los scripts generados. Puedes descargarlo desde: https://www.autohotkey.com/.  (IMPORTANTE)!!!!!
 
 Características y Uso
