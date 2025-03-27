@@ -25,7 +25,7 @@ Ingresa la frase que deseas que se envíe al presionar esa combinación en el ca
 La herramienta guardará la combinación de teclas y la frase, mostrando un mensaje de confirmación en la interfaz.
 
 Ejemplo:
-Si asignas la frase "Hola" a la tecla A, entonces al presionar Ctrl + A, se enviará "Hola".
+Si asignas la frase "Hola" a la tecla A, entonces al presionar Ctrl + A, se enviará "Hola", pero no funcionará si no ha sido guardado previamente.
 
 **2.** Guardar el Mensaje
 
