@@ -47,6 +47,8 @@ Botón "Pequeño": Reduce la ventana a 330x310 píxeles.
 
 Botón "Predeterminado": Restaura el tamaño original de 660x620 píxeles.
 
+Botón "FullScreen"
+
 **4.** Alternar entre Pantalla Completa y Ventana
 
 Modo de Pantalla Completa: Si la ventana está en modo ventana, al hacer clic en el botón "Pantalla Completa", la aplicación cambiará a pantalla completa.
@@ -55,7 +57,7 @@ Modo Ventana: Si la aplicación ya está en pantalla completa, al hacer clic en 
 
 **5.** Mensajes y Estado
 
-Un Label de estado en la interfaz mostrará mensajes de confirmación y errores, tales como:
+La interfaz mostrará mensajes de confirmación y errores (Habbo Pulse Console), tales como:
 
 Confirmación de la asignación de teclas.
 
@@ -64,12 +66,6 @@ Estado del guardado del script (exitoso o con errores).
 Errores si faltan datos o si hay problemas al guardar el archivo.
 
 **6.** Solución de Problemas
-
-El Label con los mensajes no se muestra:
-
-Verifica que el Label esté correctamente configurado dentro del proyecto en Godot.
-
-Asegúrate de que el Label esté visible antes de actualizar su texto.
 
 El archivo no se guarda:
 
