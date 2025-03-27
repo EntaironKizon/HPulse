@@ -12,7 +12,7 @@ AutoHotkey instalado para ejecutar los scripts generados. Puedes descargarlo des
 
 **Características y Uso**
 
-**1.** Asignar Combinaciones de Teclas**
+**1.** Asignar Combinaciones de Teclas
 
 Puedes asignar una tecla a una frase de la siguiente manera:
 
