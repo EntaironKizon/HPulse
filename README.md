@@ -1,7 +1,5 @@
 **Herramienta de Asignación de Teclas y Personalización de Frases**                                                     
 
-**DESCARGAR EN EL BOTON VERDE** *CODE* **Y EXTRAER**
-
 **Introducción**
 
 Esta herramienta permite usar combinaciones de teclas (hotkeys) ctlr + para enviar frases específicas en Habbo o cualquier juego similar. Es especialmente útil para Organizadores de Eventos, DJ´s y Traders.
@@ -11,6 +9,10 @@ Esta herramienta permite usar combinaciones de teclas (hotkeys) ctlr + para envi
 Sistema operativo compatible con (Windows, Linux, macOS).
 
 AutoHotkey instalado para ejecutar los mensajes generados. Puedes descargarlo desde: https://www.autohotkey.com/.  IMPORTANTE TENER INSTALADO AUTOHOTKEY O NO FUNCIONARÁ
+
+**Descarga**
+
+Usa el boton Verde Code arriba a la derecha y extrae el archivo para usarlo.
 
 **Características y Uso**
 
