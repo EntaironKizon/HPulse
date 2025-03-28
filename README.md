@@ -12,7 +12,7 @@ AutoHotkey instalado para ejecutar los mensajes generados. Puedes descargarlo de
 
 **Descarga**
 
-Usa el boton Verde Code arriba a la derecha y extrae el archivo para usarlo.
+Usa el boton Verde Code arriba a la derecha y extrae el archivo ZIP para descargar la herramienta.
 
 **Características y Uso**
 
