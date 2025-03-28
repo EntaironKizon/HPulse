@@ -13,7 +13,7 @@ AutoHotkey instalado para ejecutar los mensajes generados. Puedes descargarlo de
 
 **Descarga**
 
-Dale click en el boton Verde (Code) arriba a la derecha en este repositorio, posteriormente en Descargar ZIP para obtener la herramienta.
+Dale click en el boton Verde (Code) arriba a la derecha y después en Descargar ZIP para obtener la herramienta.
 
 **Características y Uso**
 
