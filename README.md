@@ -3,7 +3,7 @@
 
 **Introducción**
 
-Esta herramienta permite usar combinaciones de teclas (hotkeys) ctlr + para enviar frases específicas en Habbo o cualquier juego similar. Es especialmente útil para Organizadores de Eventos, DJ´s y Traders.
+Esta herramienta permite usar combinaciones de teclas (hotkeys) ctlr + tecla asignada para enviar frases específicas en Habbo o cualquier juego similar. Es especialmente útil para Organizadores de Eventos, DJ´s y Traders.
 
 **Requisitos**
 
