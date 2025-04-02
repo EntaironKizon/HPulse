@@ -1,5 +1,6 @@
 ***Herramienta de Asignación de Teclas y Personalización de Frases con Anti-AFK***   
 
+
 **Introducción**
 
 Esta herramienta permite usar combinaciones de teclas (hotkeys) para enviar frases específicas en Habbo o cualquier juego similar. Es especialmente útil para Organizadores de Eventos, DJ´s y Traders.
