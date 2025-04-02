@@ -80,7 +80,7 @@ Asegúrate de tener AutoHotkey instalado y configurado correctamente.
 *Si deseas mejorar esta herramienta o reportar errores, puedes hacer un fork del repositorio y enviar un pull request. Toda colaboración es bienvenida.*
 
 
-***Actualización: Nuevas características***
+***Actualización 02/04/2025: Nuevas características***
 
 **1. Anti AFK**
 
