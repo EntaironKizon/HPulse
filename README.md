@@ -81,7 +81,7 @@
 
  **1. Anti AFK**
 
-- Escribe tu frase y ponle nombre a tu archivo AntiAFK donde dice "Título".
+- Escribe tu frase y ponle nombre a tu archivo donde dice "Título".
 
 - El archivo se guardará automáticamente en la carpeta de descargas con tu frase y el tiempo establecido en la SpinBox (Marcador en Segundos).
 
