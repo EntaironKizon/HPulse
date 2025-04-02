@@ -91,7 +91,7 @@ El archivo no se guarda:
 
 ***Para pausar el modo Anti AFK***, pulsa el ***Control*** izquierdo en tu teclado.
 
-- Las frases inician automáticamente cuando se ejecuta el archivo despues de pasar los segundos establecidos previamente.
+- Las frases inician automáticamente cuando se ejecuta el archivo despues de pasar los segundos establecidos.
 
 **2. Sistema Drag and Drop para personalización de Fondo**
 
