@@ -75,14 +75,9 @@ Asegúrate de que el campo de nombre de archivo no esté vacío.
 
 Asegúrate de tener AutoHotkey instalado y configurado correctamente.
 
-**Contribución**
+***Actualización 02/04/2025*** 
 
-*Si deseas mejorar esta herramienta o reportar errores, puedes hacer un fork del repositorio y enviar un pull request. Toda colaboración es bienvenida.*
-
-
-***Actualización 02/04/2025:*** 
-
-**Nuevas características**
+**Nuevas características:**
 
 **1. Anti AFK**
 
@@ -98,4 +93,8 @@ Asegúrate de tener AutoHotkey instalado y configurado correctamente.
 - Arrastra y suelta una imagen en formato JPG, PNG etc.
 - La imagen seleccionada se colocará como fondo de la interfaz.
 - La última imagen colocada se guardará y reemplazará a la anterior.
+
+  **Contribución**
+
+*Si deseas mejorar esta herramienta o reportar errores, puedes hacer un fork del repositorio y enviar un pull request. Toda colaboración es bienvenida.*
 
