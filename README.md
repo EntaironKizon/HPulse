@@ -1,19 +1,19 @@
- ***Herramienta de Asignación de Teclas y Personalización de Frases con Anti-AFK***   
-
-
- **Introducción**
-
- Esta herramienta permite usar combinaciones de teclas (hotkeys) para enviar frases específicas en Habbo o cualquier juego similar. Es especialmente útil para Organizadores de Eventos, DJ´s y Traders.
-
- **Requisitos**
-
-- Sistema operativo compatible con (Windows, Linux, macOS).
-
-- AutoHotkey instalado para ejecutar los mensajes generados. Puedes descargarlo desde: https://www.autohotkey.com/.  IMPORTANTE TENER INSTALADO AUTOHOTKEY O NO FUNCIONARÁ
-
-**Descarga**
-
- Dale click en el boton Verde (Code) arriba a la derecha y después en Download ZIP para obtener la herramienta.
+  ***Herramienta de Asignación de Teclas y Personalización de Frases con Anti-AFK***   
+ 
+ 
+  **Introducción**
+ 
+  Esta herramienta permite usar combinaciones de teclas (hotkeys) para enviar frases específicas en Habbo o cualquier juego similar. Es especialmente útil para Organizadores de Eventos, DJ´s y Traders.
+ 
+  **Requisitos**
+ 
+ - Sistema operativo compatible con (Windows, Linux, macOS).
+ 
+ - AutoHotkey instalado para ejecutar los mensajes generados. Puedes descargarlo desde: https://www.autohotkey.com/.  IMPORTANTE TENER INSTALADO AUTOHOTKEY O NO FUNCIONARÁ
+ 
+ **Descarga**
+ 
+  Dale click en el boton Verde (Code) arriba a la derecha y después en Download ZIP para obtener la herramienta.
 
  ***Características y Uso***
 
