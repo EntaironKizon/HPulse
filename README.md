@@ -1,11 +1,11 @@
-***Herramienta de Asignación de Teclas y Personalización de Frases con Anti-AFK***   
+ ***Herramienta de Asignación de Teclas y Personalización de Frases con Anti-AFK***   
 
 
-**Introducción**
+ **Introducción**
 
-Esta herramienta permite usar combinaciones de teclas (hotkeys) para enviar frases específicas en Habbo o cualquier juego similar. Es especialmente útil para Organizadores de Eventos, DJ´s y Traders.
+ Esta herramienta permite usar combinaciones de teclas (hotkeys) para enviar frases específicas en Habbo o cualquier juego similar. Es especialmente útil para Organizadores de Eventos, DJ´s y Traders.
 
-**Requisitos**
+ **Requisitos**
 
 - Sistema operativo compatible con (Windows, Linux, macOS).
 
@@ -13,11 +13,11 @@ Esta herramienta permite usar combinaciones de teclas (hotkeys) para enviar fras
 
 **Descarga**
 
-Dale click en el boton Verde (Code) arriba a la derecha y después en Download ZIP para obtener la herramienta.
+ Dale click en el boton Verde (Code) arriba a la derecha y después en Download ZIP para obtener la herramienta.
 
-***Características y Uso***
+ ***Características y Uso***
 
-**1. Asignar Combinaciones de Teclas**
+ **1. Asignar Combinaciones de Teclas**
 
 - Puedes asignar una tecla a una frase de la siguiente manera:
 
@@ -29,10 +29,10 @@ Dale click en el boton Verde (Code) arriba a la derecha y después en Download Z
 
 - La herramienta guardará la combinación de teclas y la frase, mostrando un mensaje de confirmación en la interfaz.
 
-Ejemplo:
-Si asignas la frase "Hola" a la tecla A, entonces al presionar Ctrl + A, se enviará "Hola", pero no funcionará si no ha sido guardado y ejecutado previamente.
+ Ejemplo:
+ Si asignas la frase "Hola" a la tecla A, entonces al presionar Ctrl + A, se enviará "Hola", pero no funcionará si no ha sido guardado y ejecutado previamente.
 
-**2. Guardar el Mensaje**
+ **2. Guardar el Mensaje**
 
 - Asigna las combinaciones de teclas como se explica en el paso anterior.
 
@@ -44,9 +44,9 @@ Si asignas la frase "Hola" a la tecla A, entonces al presionar Ctrl + A, se envi
 
 - Ejecuta el archivo dando doble click en él para automatizar las combinaciones de teclas asignadas.
 
-**3. Cambiar el Tamaño de la Ventana**
+ **3. Cambiar el Tamaño de la Ventana**
 
-La aplicación permite ajustar su tamaño mediante los siguientes botones:
+ La aplicación permite ajustar su tamaño mediante los siguientes botones:
 
 - Botón "Pequeño": Reduce la ventana a 330x310 píxeles.
 
@@ -55,7 +55,7 @@ La aplicación permite ajustar su tamaño mediante los siguientes botones:
 - Botón "FullScreen"
 
 
-**4. Mensajes y Estado**
+ **4. Mensajes y Estado**
 
 - La interfaz mostrará mensajes de confirmación y errores (Habbo Pulse Console), tales como:
 
@@ -65,9 +65,9 @@ La aplicación permite ajustar su tamaño mediante los siguientes botones:
 
 - Errores si faltan datos o si hay problemas al guardar el archivo.
 
-**5. Solución de Problemas**
+ **5. Solución de Problemas**
 
-El archivo no se guarda:
+ El archivo no se guarda:
 
 - Verifica que tienes permisos de escritura en la carpeta de Descargas.
 
@@ -75,11 +75,11 @@ El archivo no se guarda:
 
 - Asegúrate de tener AutoHotkey instalado y configurado correctamente.
 
-***Actualización 02/04/2025*** 
+ ***Actualización 02/04/2025*** 
 
-**Nuevas características:**
+ **Nuevas características:**
 
-**1. Anti AFK**
+ **1. Anti AFK**
 
 - Escribe tu frase y ponle nombre a tu archivo AntiAFK un nombre donde dice "Título".
 
@@ -89,18 +89,18 @@ El archivo no se guarda:
 
 - ¡Disfrutar!
 
-***Para pausar el modo Anti AFK***, pulsa el ***Control*** izquierdo en tu teclado.
+ ***Para pausar el modo Anti AFK***, pulsa el ***Control*** izquierdo en tu teclado.
 
 - Las frases inician automáticamente cuando se ejecuta el archivo despues de pasar los segundos establecidos.
 
-**2. Sistema Drag and Drop para personalización de Fondo**
+ **2. Sistema Drag and Drop para personalización de Fondo**
 
 - Arrastra y suelta una imagen en formato JPG, PNG etc.
 - La imagen seleccionada se colocará como fondo de la interfaz.
 - La última imagen colocada se guardará y reemplazará a la anterior.
 
 
-**Contribución**
+ **Contribución**
 
-- *Si deseas mejorar esta herramienta o reportar errores, puedes hacer un fork del repositorio y enviar un pull request. Toda colaboración es bienvenida.*
+ *Si deseas mejorar esta herramienta o reportar errores, puedes hacer un fork del repositorio y enviar un pull request. Toda colaboración es bienvenida.*
 
