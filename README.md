@@ -35,7 +35,7 @@ Si asignas la frase "Hola" a la tecla A, entonces al presionar Ctrl + A, se envi
 
 Asigna las combinaciones de teclas como se explica en el paso anterior.
 
-Ingresa el nombre del archivo en el campo de texto de la interfaz. (Donde dice Nombre del Evento)
+Ingresa el nombre del archivo en el campo de texto de la interfaz. (TITULO)
 
 Haz clic en el botón Guardar para generar el archivo .ahk en la carpeta de Descargas.
 
