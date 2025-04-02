@@ -1,4 +1,4 @@
-***Herramienta de Asignación de Teclas y Personalización de Frases con ANTIAFK***   
+***Herramienta de Asignación de Teclas y Personalización de Frases***     ***Anti-AFK***        **Fondos personalizados**
 
 **Introducción**
 
