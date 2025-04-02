@@ -94,7 +94,8 @@ Asegúrate de tener AutoHotkey instalado y configurado correctamente.
 - La imagen seleccionada se colocará como fondo de la interfaz.
 - La última imagen colocada se guardará y reemplazará a la anterior.
 
-  **Contribución**
+
+**Contribución**
 
 *Si deseas mejorar esta herramienta o reportar errores, puedes hacer un fork del repositorio y enviar un pull request. Toda colaboración es bienvenida.*
 
