@@ -83,15 +83,15 @@ Asegúrate de tener AutoHotkey instalado y configurado correctamente.
 
 **1. Herramienta Anti AFK**
 
-- ***Escribe tu frase*** como en la herramienta anterior y ***pon tu nombre*** donde dice "Título".
-- Se guardará automáticamente tu frase con el tiempo establecido en la SpinBox.
-- Luego ejecutas el archivo .ahk guardado en la carpeta de Descargas con doble clic.
+- Escribe tu frase y ponle nombre a tu archivo AntiAFK "Título".
+- Se guardará automáticamente en la carpeta de descargas con tu frase y el tiempo establecido en la SpinBox (Marcador en Segundos).
+- Ejecuta el archivo guardado en la carpeta de Descargas con doble clic.
 - ***Para pausar el modo Anti AFK***, simplemente pulsa el Control izquierdo en tu teclado.
-- El script ***inicia automáticamente*** cuando se abre.
+- El script inicia automáticamente cuando se abre despues de pasar los segundos establecidos.
 
 **2. Sistema Drag and Drop para Fondo**
 
-- ***Arrastra y suelta*** una imagen en formato JPG, PNG o los formatos comunes en la ventana de la aplicación.
+- Arrastra y suelta una imagen en formato JPG, PNG etc.
 - La imagen seleccionada se colocará como fondo de la interfaz.
 - La última imagen colocada se guardará y reemplazará a la anterior.
 
