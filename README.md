@@ -69,8 +69,6 @@
 
  El archivo no se guarda:
 
-- Verifica que tienes permisos de escritura en la carpeta de Descargas.
-
 - Asegúrate de que el campo de nombre de archivo no esté vacío.
 
 - Asegúrate de tener AutoHotkey instalado y configurado correctamente.
