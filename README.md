@@ -14,9 +14,9 @@ AutoHotkey instalado para ejecutar los mensajes generados. Puedes descargarlo de
 
 Dale click en el boton Verde (Code) arriba a la derecha y después en Download ZIP para obtener la herramienta.
 
-**Características y Uso**
+***Características y Uso***
 
-**1.** Asignar Combinaciones de Teclas
+**1. Asignar Combinaciones de Teclas**
 
 Puedes asignar una tecla a una frase de la siguiente manera:
 
