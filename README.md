@@ -31,7 +31,7 @@ La herramienta guardará la combinación de teclas y la frase, mostrando un mens
 Ejemplo:
 Si asignas la frase "Hola" a la tecla A, entonces al presionar Ctrl + A, se enviará "Hola", pero no funcionará si no ha sido guardado y ejecutado previamente.
 
-**2.** Guardar el Mensaje
+**2. Guardar el Mensaje**
 
 Asigna las combinaciones de teclas como se explica en el paso anterior.
 
@@ -43,7 +43,7 @@ El archivo generado incluirá todas las combinaciones de teclas y frases asignad
 
 Ejecuta el archivo dando doble click en él para automatizar las combinaciones de teclas asignadas.
 
-**3.** Cambiar el Tamaño de la Ventana
+**3. Cambiar el Tamaño de la Ventana**
 
 La aplicación permite ajustar su tamaño mediante los siguientes botones:
 
@@ -54,7 +54,7 @@ Botón "Predeterminado": Restaura el tamaño original de 660x620 píxeles.
 Botón "FullScreen"
 
 
-**4.** Mensajes y Estado
+**4. Mensajes y Estado**
 
 La interfaz mostrará mensajes de confirmación y errores (Habbo Pulse Console), tales como:
 
@@ -64,7 +64,7 @@ Estado del guardado del script (exitoso o con errores).
 
 Errores si faltan datos o si hay problemas al guardar el archivo.
 
-**5.** Solución de Problemas
+**5. Solución de Problemas**
 
 El archivo no se guarda:
 
@@ -79,7 +79,7 @@ Asegúrate de tener AutoHotkey instalado y configurado correctamente.
 *Si deseas mejorar esta herramienta o reportar errores, puedes hacer un fork del repositorio y enviar un pull request. Toda colaboración es bienvenida.*
 
 
-**Actualización: Nuevas características**
+***Actualización: Nuevas características***
 
 **1. Herramienta Anti AFK**
 
