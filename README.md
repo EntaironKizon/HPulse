@@ -85,7 +85,7 @@ Asegúrate de tener AutoHotkey instalado y configurado correctamente.
 - El archivo se guardará automáticamente en la carpeta de descargas con tu frase y el tiempo establecido en la SpinBox (Marcador en Segundos).
 - Ejecuta el archivo guardado en la carpeta de Descargas con doble clic.
 - ¡Disfrutar!
-- ***Para pausar el modo Anti AFK***, simplemente pulsa el ***Control*** izquierdo en tu teclado.
+- ***Para pausar el modo Anti AFK***, pulsa el ***Control*** izquierdo en tu teclado.
 - El script inicia automáticamente cuando se ejecuta despues de pasar los segundos establecidos.
 
 **2. Sistema Drag and Drop para personalización de Fondo**
