@@ -7,9 +7,9 @@ Esta herramienta permite usar combinaciones de teclas (hotkeys) para enviar fras
 
 **Requisitos**
 
--Sistema operativo compatible con (Windows, Linux, macOS).
+- Sistema operativo compatible con (Windows, Linux, macOS).
 
--AutoHotkey instalado para ejecutar los mensajes generados. Puedes descargarlo desde: https://www.autohotkey.com/.  IMPORTANTE TENER INSTALADO AUTOHOTKEY O NO FUNCIONARÁ
+- AutoHotkey instalado para ejecutar los mensajes generados. Puedes descargarlo desde: https://www.autohotkey.com/.  IMPORTANTE TENER INSTALADO AUTOHOTKEY O NO FUNCIONARÁ
 
 **Descarga**
 
@@ -19,61 +19,61 @@ Dale click en el boton Verde (Code) arriba a la derecha y después en Download Z
 
 **1. Asignar Combinaciones de Teclas**
 
--Puedes asignar una tecla a una frase de la siguiente manera:
+- Puedes asignar una tecla a una frase de la siguiente manera:
 
--En la interfaz de usuario, verás varios botones con letras (A, S, D, etc.).
+- En la interfaz de usuario, verás varios botones con letras (A, S, D, etc.).
 
--Haz clic en uno de los botones, por ejemplo, "A", para asignar una frase a la combinación Ctrl + A.
+- Haz clic en uno de los botones, por ejemplo, "A", para asignar una frase a la combinación Ctrl + A.
 
--Ingresa la frase que deseas que se envíe al presionar esa combinación en el campo de texto.
+- Ingresa la frase que deseas que se envíe al presionar esa combinación en el campo de texto.
 
--La herramienta guardará la combinación de teclas y la frase, mostrando un mensaje de confirmación en la interfaz.
+- La herramienta guardará la combinación de teclas y la frase, mostrando un mensaje de confirmación en la interfaz.
 
 Ejemplo:
 Si asignas la frase "Hola" a la tecla A, entonces al presionar Ctrl + A, se enviará "Hola", pero no funcionará si no ha sido guardado y ejecutado previamente.
 
 **2. Guardar el Mensaje**
 
--Asigna las combinaciones de teclas como se explica en el paso anterior.
+- Asigna las combinaciones de teclas como se explica en el paso anterior.
 
--Ingresa el nombre del archivo en el campo de texto de la interfaz. (TITULO)
+- Ingresa el nombre del archivo en el campo de texto de la interfaz. (TITULO)
 
--Haz clic en el botón Guardar para generar el archivo .ahk en la carpeta de Descargas.
+- Haz clic en el botón Guardar para generar el archivo .ahk en la carpeta de Descargas.
 
--El archivo generado incluirá todas las combinaciones de teclas y frases asignadas.
+- El archivo generado incluirá todas las combinaciones de teclas y frases asignadas.
 
--Ejecuta el archivo dando doble click en él para automatizar las combinaciones de teclas asignadas.
+- Ejecuta el archivo dando doble click en él para automatizar las combinaciones de teclas asignadas.
 
 **3. Cambiar el Tamaño de la Ventana**
 
 La aplicación permite ajustar su tamaño mediante los siguientes botones:
 
--Botón "Pequeño": Reduce la ventana a 330x310 píxeles.
+- Botón "Pequeño": Reduce la ventana a 330x310 píxeles.
 
--Botón "Predeterminado": Restaura el tamaño original de 660x620 píxeles.
+- Botón "Predeterminado": Restaura el tamaño original de 660x620 píxeles.
 
--Botón "FullScreen"
+- Botón "FullScreen"
 
 
 **4. Mensajes y Estado**
 
--La interfaz mostrará mensajes de confirmación y errores (Habbo Pulse Console), tales como:
+- La interfaz mostrará mensajes de confirmación y errores (Habbo Pulse Console), tales como:
 
 -Confirmación de la asignación de teclas.
 
--Estado del guardado del script (exitoso o con errores).
+- Estado del guardado del script (exitoso o con errores).
 
--Errores si faltan datos o si hay problemas al guardar el archivo.
+- Errores si faltan datos o si hay problemas al guardar el archivo.
 
 **5. Solución de Problemas**
 
 El archivo no se guarda:
 
--Verifica que tienes permisos de escritura en la carpeta de Descargas.
+- Verifica que tienes permisos de escritura en la carpeta de Descargas.
 
--Asegúrate de que el campo de nombre de archivo no esté vacío.
+- Asegúrate de que el campo de nombre de archivo no esté vacío.
 
--Asegúrate de tener AutoHotkey instalado y configurado correctamente.
+- Asegúrate de tener AutoHotkey instalado y configurado correctamente.
 
 ***Actualización 02/04/2025*** 
 
@@ -81,11 +81,11 @@ El archivo no se guarda:
 
 **1. Anti AFK**
 
--Escribe tu frase y ponle nombre a tu archivo AntiAFK un nombre donde dice "Título".
+- Escribe tu frase y ponle nombre a tu archivo AntiAFK un nombre donde dice "Título".
 
--El archivo se guardará automáticamente en la carpeta de descargas con tu frase y el tiempo establecido en la SpinBox (Marcador en Segundos).
+- El archivo se guardará automáticamente en la carpeta de descargas con tu frase y el tiempo establecido en la SpinBox (Marcador en Segundos).
 
--Ejecuta el archivo guardado en la carpeta de Descargas con doble clic.
+- Ejecuta el archivo guardado en la carpeta de Descargas con doble clic.
 
 -¡Disfrutar!
 
