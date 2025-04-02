@@ -72,8 +72,11 @@
 - Asegúrate de que el campo de nombre de archivo no esté vacío.
 
 - Asegúrate de tener AutoHotkey instalado y configurado correctamente.
+- 
+- 
 
  ***Actualización 02/04/2025*** 
+ 
 
  **Nuevas características:**
 
