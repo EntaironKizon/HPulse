@@ -59,7 +59,7 @@ La aplicación permite ajustar su tamaño mediante los siguientes botones:
 
 - La interfaz mostrará mensajes de confirmación y errores (Habbo Pulse Console), tales como:
 
--Confirmación de la asignación de teclas.
+- Confirmación de la asignación de teclas.
 
 - Estado del guardado del script (exitoso o con errores).
 
@@ -87,11 +87,11 @@ El archivo no se guarda:
 
 - Ejecuta el archivo guardado en la carpeta de Descargas con doble clic.
 
--¡Disfrutar!
+- ¡Disfrutar!
 
 ***Para pausar el modo Anti AFK***, pulsa el ***Control*** izquierdo en tu teclado.
 
-El script inicia automáticamente cuando se ejecuta despues de pasar los segundos establecidos.
+- El script inicia automáticamente cuando se ejecuta despues de pasar los segundos establecidos.
 
 **2. Sistema Drag and Drop para personalización de Fondo**
 
@@ -102,5 +102,5 @@ El script inicia automáticamente cuando se ejecuta despues de pasar los segundo
 
 **Contribución**
 
-*Si deseas mejorar esta herramienta o reportar errores, puedes hacer un fork del repositorio y enviar un pull request. Toda colaboración es bienvenida.*
+- *Si deseas mejorar esta herramienta o reportar errores, puedes hacer un fork del repositorio y enviar un pull request. Toda colaboración es bienvenida.*
 
