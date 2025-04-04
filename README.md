@@ -3,7 +3,7 @@
  
   **Introducción**
  
-  Esta herramienta permite usar combinaciones de teclas (hotkeys) para enviar frases específicas en Habbo o cualquier juego similar. Es especialmente útil para Organizadores de Eventos, DJ´s y Traders.
+  Esta herramienta permite usar combinaciones de teclas (hotkeys) para enviar frases específicas para juegos con Chat. Es especialmente útil para Organizadores de Eventos, DJ´s y Traders.
  
   **Requisitos**
  
@@ -57,7 +57,7 @@
 
  **4. Mensajes y Estado**
 
-- La interfaz mostrará mensajes de confirmación y errores (Habbo Pulse Console), tales como:
+- La interfaz mostrará mensajes de confirmación y errores (HPulse Console), tales como:
 
 - Confirmación de la asignación de teclas.
 
