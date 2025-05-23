@@ -100,7 +100,4 @@
 - La última imagen colocada se guardará y reemplazará a la anterior.
 
 
- **Contribución**
-
- *Si deseas mejorar esta herramienta o reportar errores, puedes hacer un fork del repositorio y enviar un pull request. Toda colaboración es bienvenida.*
 
