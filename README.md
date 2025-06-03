@@ -27,7 +27,7 @@
 
 - Ingresa la frase que deseas que se envíe al presionar esa combinación en el campo de texto.
 
-- La herramienta guardará la combinación de teclas y la frase, mostrando un mensaje de confirmación en la interfaz.
+- Pula en Guardar mensaje para guardar la combinacion, La herramienta guardará la combinación de teclas y la frase, mostrando un mensaje de confirmación en la interfaz.
 
  Ejemplo:
  Si asignas la frase "Hola" a la tecla A, entonces al presionar Ctrl + A, se enviará "Hola", pero no funcionará si no ha sido guardado y ejecutado previamente.
@@ -83,6 +83,8 @@
 
 - Escribe tu frase y ponle nombre a tu archivo donde dice "Título".
 
+- Pulsa en el Boton AFK para guardar tu frase Anti-AFK
+
 - El archivo se guardará automáticamente en la carpeta de descargas con tu frase y el tiempo establecido en la SpinBox (Marcador en Segundos).
 
 - Ejecuta el archivo guardado en la carpeta de Descargas con doble clic.
@@ -96,7 +98,9 @@
  **2. Sistema Drag and Drop para personalización de Fondo**
 
 - Arrastra y suelta una imagen en formato JPG, PNG etc.
+
 - La imagen seleccionada se colocará como fondo de la interfaz.
+
 - La última imagen colocada se guardará y reemplazará a la anterior.
 
 
