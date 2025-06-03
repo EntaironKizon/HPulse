@@ -25,7 +25,7 @@ Cómo asignar una frase a una tecla:
 
 2. Haz clic en la tecla a la que deseas asignar la frase (por ejemplo: "A", "S", "D", etc.). Esto asignará la frase a la combinación Ctrl + [tecla].
 
-3. Verás un mensaje de confirmación indicando que la tecla fue asignada correctamente.
+3. Verás un mensaje de confirmación indicando que la frase fue asignada a la combinación correctamente.
 
 4. Haz clic en "Guardar mensaje" para guardar la combinación.
 
