@@ -19,15 +19,15 @@
 
  **1. Asignar Combinaciones de Teclas**
 
-- Puedes asignar una tecla a una frase de la siguiente manera:
+Cómo asignar una frase a una tecla:
 
-- En la interfaz de usuario, verás varios botones con letras (A, S, D, etc.).
+1. Ingresa tu frase en el campo de texto.
 
-- Haz clic en uno de los botones, por ejemplo, "A", para asignar una frase a la combinación Ctrl + A.
+2. Haz clic en la tecla a la que deseas asignar la frase (por ejemplo: "A", "S", "D", etc.). Esto asignará la frase a la combinación Ctrl + [tecla].
 
-- Ingresa la frase que deseas que se envíe al presionar esa combinación en el campo de texto.
+3. Verás un mensaje de confirmación indicando que la tecla fue asignada correctamente.
 
-- Pula en Guardar mensaje para guardar la combinacion, La herramienta guardará la combinación de teclas y la frase, mostrando un mensaje de confirmación en la interfaz.
+4. Haz clic en "Guardar mensaje" para guardar la combinación.
 
  Ejemplo:
  Si asignas la frase "Hola" a la tecla A, entonces al presionar Ctrl + A, se enviará "Hola", pero no funcionará si no ha sido guardado y ejecutado previamente.
