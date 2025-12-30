@@ -9,7 +9,9 @@
  
  - Sistema operativo compatible con (Windows, Linux, macOS).
  
- - AutoHotkey V1.1 instalado para ejecutar los mensajes generados. Puedes descargarlo desde: https://www.autohotkey.com/.  IMPORTANTE TENER INSTALADO AUTOHOTKEY V1.1 O NO FUNCIONARÁ
+ - AutoHotkey V1.1 instalado para ejecutar los mensajes generados. Puedes descargarlo desde: https://www.autohotkey.com/. 
+ 
+ IMPORTANTE TENER INSTALADO AUTOHOTKEY V1.1 O NO FUNCIONARÁ
  
  **Descarga**
  
